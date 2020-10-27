@@ -1,5 +1,7 @@
 {
   "name": "social-window-email",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "nuxt": "^2.14.7"
+  }
 }
